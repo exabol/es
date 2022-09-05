@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_MOD_EM_TITLE">Administrador de eventos</phrase>
+  <phrase data="_MOD_EM_TITLE1">Editar evento</phrase>
+  <phrase data="_MOD_EM_TITLE2">Nuevo evento</phrase>
+  <phrase data="_MOD_EM_TITLE3">Eventos de este año</phrase>
+  <phrase data="_MOD_EM_SUB">Agregar evento</phrase>
+  <phrase data="_MOD_EM_SUB1">Lugar</phrase>
+  <phrase data="_MOD_EM_SUB2">Contacto</phrase>
+  <phrase data="_MOD_EM_SUB23">Fin</phrase>
+  <phrase data="_MOD_EM_SUB3">Últimos acontecimientos del año [AÑO]</phrase>
+  <phrase data="_MOD_EM_CONTACT">Persona de contacto</phrase>
+  <phrase data="_MOD_EM_VENUE">Título del lugar</phrase>
+  <phrase data="_MOD_EM_PHONE">Teléfono de contacto</phrase>
+  <phrase data="_MOD_EM_EMAIL">Correo electrónico de contacto</phrase>
+  <phrase data="_MOD_EM_COLOUR">Marcador de color</phrase>
+  <phrase data="_MOD_EM_UPDATE">Actualizar evento</phrase>
+  <phrase data="_MOD_EM_DATE_S">Fecha y hora de inicio</phrase>
+  <phrase data="_MOD_EM_DATE_SE">Fecha/hora final</phrase>
+  <phrase data="_MOD_EM_DATE_ST">Fecha de inicio</phrase>
+  <phrase data="_MOD_EM_DATE_E">Fecha final</phrase>
+  <phrase data="_MOD_EM_TIME_S">Hora inicial/hora final</phrase>
+  <phrase data="_MOD_EM_TIME_ST">Hora de inicio</phrase>
+  <phrase data="_MOD_EM_TIME_ET">Fin del tiempo</phrase>
+  <phrase data="_MOD_EM_NOEVENTS">Todavía no tienes ningún evento. Por favor, agregue...</phrase>
+  <phrase data="_MOD_EM_NOEVENTSF">Lo siento, todavía no tenemos ningún evento...</phrase>
+  <phrase data="_MOD_EM_DEL_OK">Evento [NAME] eliminado correctamente.</phrase>
+  <phrase data="_MOD_EM_UPDATE_OK">Evento [NAME] actualizado correctamente.</phrase>
+  <phrase data="_MOD_EM_ADDED_OK">Evento [NAME] agregado correctamente.</phrase>
+</language>

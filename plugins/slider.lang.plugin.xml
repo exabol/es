@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_PLG_SL_ADDED">La diapositiva [NAME] se agregó correctamente.</phrase>
+  <phrase data="_PLG_SL_SUB">Aquí puede agregar una nueva diapositiva.</phrase>
+  <phrase data="_PLG_SL_SUB1">Aquí puede actualizar su diapositiva actual.</phrase>
+  <phrase data="_PLG_SL_SUB2">Aquí puede configurar el plugin de control deslizante universal.</phrase>
+  <phrase data="_PLG_SL_SUB3">Configuración de formas</phrase>
+  <phrase data="_PLG_SL_SUB4">Colores</phrase>
+  <phrase data="_PLG_SL_SUB5">Radio de borde</phrase>
+  <phrase data="_PLG_SL_SUB6">Ancho/Alto</phrase>
+  <phrase data="_PLG_SL_SUB7">Nuevo control deslizante</phrase>
+  <phrase data="_PLG_SL_SUB8">Guardar configuración</phrase>
+  <phrase data="_PLG_SL_DEL_OK">El control deslizante [NAME] se eliminó correctamente.</phrase>
+  <phrase data="_PLG_SL_SUB9">Edición de texto</phrase>
+  <phrase data="_PLG_SL_SUB10">Insertar capa</phrase>
+  <phrase data="_PLG_SL_SUB11">Animaciones</phrase>
+  <phrase data="_PLG_SL_SUB12">Imagen principal de Bg</phrase>
+  <phrase data="_PLG_SL_SUB13">Cambiar imagen</phrase>
+  <phrase data="_PLG_SL_SUB14">Vista previa de deslizamiento</phrase>
+  <phrase data="_PLG_SL_NOSLIDER">Todavía no tienes diapositivas. Por favor, agregue...</phrase>
+  <phrase data="_PLG_SL_TITLE">Administrar complemento deslizante universal CMS</phrase>
+  <phrase data="_PLG_SL_TITLE1">Agregar diapositiva</phrase>
+  <phrase data="_PLG_SL_TITLE2">Editar diapositiva</phrase>
+  <phrase data="_PLG_SL_UPDATE">Actualizar diapositiva</phrase>
+  <phrase data="_PLG_SL_UPDATED">La diapositiva [NAME] se actualizó correctamente.</phrase>
+  <phrase data="_PLG_SL_ICON">Icono</phrase>
+  <phrase data="_PLG_SL_VIDEO">Vídeo</phrase>
+  <phrase data="_PLG_SL_SHAPE">Forma</phrase>
+  <phrase data="_PLG_SL_HEAD">Encabezado</phrase>
+  <phrase data="_PLG_SL_PARA">Texto</phrase>
+  <phrase data="_PLG_SL_BUTTON">Botón</phrase>
+  <phrase data="_PLG_SL_AUTOPLAY">Reproducción automática</phrase>
+  <phrase data="_PLG_SL_LOOP">Vídeo de bucle</phrase>
+  <phrase data="_PLG_SL_LOOPS">Bucle</phrase>
+  <phrase data="_PLG_SL_PONHOVER">Pausa en Hover</phrase>
+  <phrase data="_PLG_SL_ASPEED">Velocidad de reproducción automática</phrase>
+  <phrase data="_PLG_SL_HEIGHT">Alto del visor deslizante</phrase>
+  <phrase data="_PLG_SL_FSCREEN">Pantalla completa</phrase>
+  <phrase data="_PLG_SL_ALANIM">Animación de diapositivas</phrase>
+  <phrase data="_PLG_SL_ANSPEED">Velocidad de animación</phrase>
+  <phrase data="_PLG_SL_IMGSCALE">Modo de escala de imagen</phrase>
+  <phrase data="_PLG_SL_LAYOUT">Diseño deslizante</phrase>
+  <phrase data="_PLG_SL_THUMBS_P">Posición de miniaturas</phrase>
+</language>

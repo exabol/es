@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_MOD_PF_TITLE">Administrar módulo de cartera de CMS</phrase>
+  <phrase data="_MOD_PF_SUB">Administración de artículos</phrase>
+  <phrase data="_MOD_PF_SUB1">Cliente</phrase>
+  <phrase data="_MOD_PF_ADD">Agregar elemento</phrase>
+  <phrase data="_MOD_PF_SUB2">Editar elemento</phrase>
+  <phrase data="_MOD_PF_SUB3">Categorías de cartera</phrase>
+  <phrase data="_MOD_PF_SUB4">Editar categoría</phrase>
+  <phrase data="_MOD_PF_SUB4">Configuración de la cartera de proyectos</phrase>
+  <phrase data="_MOD_PF_SUB5">Página Elementos por Categoría</phrase>
+  <phrase data="_MOD_PF_SUB6">Elementos por página principal</phrase>
+  <phrase data="_MOD_PF_SUB7">Diseño de elementos</phrase>
+  <phrase data="_MOD_PF_SUB8">Mostrar navegación por categorías</phrase>
+  <phrase data="_MOD_PF_SUB12">Mostrar iconos sociales</phrase>
+  <phrase data="_MOD_PF_SUB9">Mostrar opciones de ordenación</phrase>
+  <phrase data="_MOD_PF_SUB10">Mostrar sólo destacados</phrase>
+  <phrase data="_MOD_PF_SUB11">Artículo destacado</phrase>
+  <phrase data="_MOD_PF_SUB13">Últimos artículos</phrase>
+  <phrase data="_MOD_PF_NOPROJ">Todavía no tienes ningún artículo. Por favor, agregue...</phrase>
+  <phrase data="_MOD_PF_DEL_OK">El elemento [NAME] se eliminó correctamente.</phrase>
+  <phrase data="_MOD_PF_CUPDATED">La configuración de la cartera se ha actualizado correctamente.</phrase>
+  <phrase data="_MOD_PF_CAT_UPDATE_OK">La categoría [NAME] se actualizó correctamente.</phrase>
+  <phrase data="_MOD_PF_CAT_ADDED_OK">La categoría [NAME] se agregó correctamente.</phrase>
+  <phrase data="_MOD_PF_ITM_UPDATE_OK">El elemento [NAME] se actualizó correctamente.</phrase>
+  <phrase data="_MOD_PF_ITM_ADDED_OK">El elemento [NAME] se agregó correctamente.</phrase>
+  <phrase data="_MOD_PF_CAT_DEL_OK">La categoría [NAME] se eliminó correctamente.</phrase>
+  <phrase data="_MOD_PF_UPDATECAT">Actualizar categoría</phrase>
+  <phrase data="_MOD_PF_UPDATEITM">Actualizar elemento</phrase>
+  <phrase data="_MOD_PF_NEWITM">Nuevo artículo</phrase>
+  <phrase data="_MOD_PF_NEWCAT">Nueva categoría</phrase>
+</language>

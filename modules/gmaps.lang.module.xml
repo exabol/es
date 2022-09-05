@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_MOD_GM_TITLE">Administrar asignaciones de ubicación</phrase>
+  <phrase data="_MOD_GM_TITLE1">Editar asignaciones de ubicación</phrase>
+  <phrase data="_MOD_GM_TITLE2">Nuevos mapas de ubicación</phrase>
+  <phrase data="_MOD_GM_UPDATE">Actualizar mapa</phrase>
+  <phrase data="_MOD_GM_SUB">Tipo de asignación</phrase>
+  <phrase data="_MOD_GM_SUB1">Nivel de zoom</phrase>
+  <phrase data="_MOD_GM_SUB1_1">Nivel de zoom mínimo/máximo</phrase>
+  <phrase data="_MOD_GM_SUB2">Control de tipo</phrase>
+  <phrase data="_MOD_GM_SUB3">Vista calle</phrase>
+  <phrase data="_MOD_GM_SUB4">Estilos preestablecidos</phrase>
+  <phrase data="_MOD_GM_NEW">Nueva ubicación</phrase>
+  <phrase data="_MOD_GM_SUB5">Buscar dirección</phrase>
+  <phrase data="_MOD_GM_SUB6">Pinza</phrase>
+  <phrase data="_MOD_GM_SUB7">Nueva ubicación</phrase>
+  <phrase data="_MOD_GM_PINS">Pins personalizados</phrase>
+  <phrase data="_MOD_GM_LAT">Latitude</phrase>
+  <phrase data="_MOD_GM_LNG">Longitud</phrase>
+  <phrase data="_MOD_GM_NOMAPS">Todavía no tienes ninguna ubicación. Por favor, agregue...</phrase>
+  <phrase data="_MOD_GM_DEL_OK">La ubicación [NAME] se eliminó correctamente.</phrase>
+  <phrase data="_MOD_GM_UPDATE_OK">La ubicación [NAME] se actualizó correctamente.</phrase>
+  <phrase data="_MOD_GM_ADDED_OK">La ubicación [NAME] se agregó correctamente.</phrase>
+</language>

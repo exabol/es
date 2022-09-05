@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_MOD_GA_TITLE">Administrar galería CMS</phrase>
+  <phrase data="_MOD_GA_SUB">Aquí puede configurar su módulo de galería.</phrase>
+  <phrase data="_MOD_GA_TITLE1">Editar galería</phrase>
+  <phrase data="_MOD_GA_NEW">Nueva galería</phrase>
+  <phrase data="_MOD_GA_PHOTOS">Fotos</phrase>
+  <phrase data="_MOD_GA_DEL_OK">Galería [NAME] eliminada correctamente.</phrase>
+  <phrase data="_MOD_GA_NOGAL">Todavía no tienes galerías...</phrase>
+  <phrase data="_MOD_GA_NOPHOTO">Todavía no tienes fotos...</phrase>
+  <phrase data="_MOD_GA_SUB2">Galería de actualizaciones</phrase>
+  <phrase data="_MOD_GA_SUB3">Crear galería</phrase>
+  <phrase data="_MOD_GA_SUB4">Administrar fotos</phrase>
+  <phrase data="_MOD_GA_SUB5">Agregar fotos</phrase>
+  <phrase data="_MOD_GA_SUB6">Seleccionar galería</phrase>
+  <phrase data="_MOD_GA_SUB7">Adjuntar galería</phrase>
+  <phrase data="_MOD_GA_UPDATE_OK">La Galería [NAME] se actualizó correctamente.</phrase>
+  <phrase data="_MOD_GA_ADDED_OK">Galería [NAME] se agregó correctamente.</phrase>
+  <phrase data="_MOD_GA_PHOTO_OK">Foto [NAME] actualizada correctamente.</phrase>
+  <phrase data="_MOD_GA_PHOTO_DEL_OK">Foto [NAME] eliminada correctamente.</phrase>
+  <phrase data="_MOD_GA_THUMBW">Ancho de miniaturas</phrase>
+  <phrase data="_MOD_GA_THUMBH">Alto de miniaturas</phrase>
+  <phrase data="_MOD_GA_COLS">Tamaño de columna</phrase>
+  <phrase data="_MOD_GA_WMARK">Habilitar marca de agua</phrase>
+  <phrase data="_MOD_GA_LIKE">Habilitar como</phrase>
+  <phrase data="_MOD_GA_DIR">Carpeta de galería no válida</phrase>
+  <phrase data="_MOD_GA_POSTER">Cartel</phrase>
+  <phrase data="_MOD_GA_RESIZE_TH">Cambiar tamaño de miniaturas de imagen</phrase>
+  <phrase data="_MOD_GA_RESIZE_THE">Resize (método)</phrase>
+  <phrase data="_MOD_GA_RESIZE_OK">Las imágenes de [NUMBER] se cambiaron de tamaño correctamente.</phrase>
+  <phrase data="_MOD_GA_INFO">Por favor, tengan paciencia, esta acción puede tomar algún tiempo.</phrase>
+</language>

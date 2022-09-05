@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_MOD_CM_AA">Aprobación automática</phrase>
+  <phrase data="_MOD_CM_CAPTCHA">Mostrar Captcha</phrase>
+  <phrase data="_MOD_CM_CHAR">Límite de caracteres</phrase>
+  <phrase data="_MOD_CM_CUPDATED">La configuración de comentarios se actualizó correctamente.</phrase>
+  <phrase data="_MOD_CM_DATE">Formato de fecha</phrase>
+  <phrase data="_MOD_CM_DEL_OK">Comentario [NAME] eliminado correctamente.</phrase>
+  <phrase data="_MOD_CM_E_NOT_V">Su dirección de correo electrónico no se publicará.</phrase>
+  <phrase data="_MOD_CM_MSGOK1">¡Gracias! Su comentario ha sido enviado.</phrase>
+  <phrase data="_MOD_CM_MSGOK2">¡Gracias! Su comentario ha sido enviado, y está pendiente de verificación.</phrase>
+  <phrase data="_MOD_CM_NOTIFY">Notificaciones</phrase>
+  <phrase data="_MOD_CM_PERPAGE">Comentarios por página</phrase>
+  <phrase data="_MOD_CM_RATING">Habilitar clasificación</phrase>
+  <phrase data="_MOD_CM_REG_ONLY">Acceso público</phrase>
+  <phrase data="_MOD_CM_REPLAY">Respuesta</phrase>
+  <phrase data="_MOD_CM_SORTING">Clasificación de comentarios</phrase>
+  <phrase data="_MOD_CM_SORTING_B">— Más reciente/Más abajo —</phrase>
+  <phrase data="_MOD_CM_SORTING_T">— Más reciente/Superior —</phrase>
+  <phrase data="_MOD_CM_SUB">Aún no hay comentarios...</phrase>
+  <phrase data="_MOD_CM_SUB1">Lo sentimos, sólo los usuarios registrados y registrados pueden publicar comentarios. Inicie sesión o regístrese.</phrase>
+  <phrase data="_MOD_CM_SUB2">Deja tu comentario</phrase>
+  <phrase data="_MOD_CM_SUB3">No hay comentarios pendientes...</phrase>
+  <phrase data="_MOD_CM_SUB4">Aprobar</phrase>
+  <phrase data="_MOD_CM_TITLE1">Configuración de comentarios</phrase>
+  <phrase data="_MOD_CM_TITLE2">Comentarios pendientes</phrase>
+  <phrase data="_MOD_CM_TSINCE">Usar tiempo desde</phrase>
+  <phrase data="_MOD_CM_UNAME_R">Nombre requerido</phrase>
+  <phrase data="_MOD_CM_WORDS">Palabras en la lista negra</phrase>
+</language>

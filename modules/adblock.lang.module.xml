@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_MOD_AB_TITLE">Administrador de bloques de anuncios</phrase>
+  <phrase data="_MOD_AB_INFO">Al eliminar la campaña de anuncios, también se eliminarán todas las imágenes y complementos asignados en el mismo bloque de datos.</phrase>
+  <phrase data="_MOD_AB_NEW">Nueva campaña</phrase>
+  <phrase data="_MOD_AB_ADD">Agregar campaña</phrase>
+  <phrase data="_MOD_AB_NO_CMP">No tienes ninguna prueba de campaña. Por favor, agregue...</phrase>
+  <phrase data="_MOD_AB_OFFLINE">Sin conexión</phrase>
+  <phrase data="_MOD_AB_ONLINE">En línea</phrase>
+  <phrase data="_MOD_AB_EDIT">Editar campaña</phrase>
+  <phrase data="_MOD_AB_UPDATE">Actualizar campaña</phrase>
+  <phrase data="_MOD_AB_ADDED_OK">La campaña [NAME] se agregó correctamente.</phrase>
+  <phrase data="_MOD_AB_UPDATE_OK">La campaña [NAME] se actualizó correctamente.</phrase>
+  <phrase data="_MOD_AB_DEL_OK">La campaña [NAME] se eliminó correctamente.</phrase>
+  <phrase data="_MOD_AB_SUB">Fecha de inicio/finalización</phrase>
+  <phrase data="_MOD_AB_SUB1">Total de vistas permitidas</phrase>
+  <phrase data="_MOD_AB_SUB2">Total de clics permitidos</phrase>
+  <phrase data="_MOD_AB_SUB3">CTR mínimo</phrase>
+  <phrase data="_MOD_AB_SUB4">Imagen del cartel</phrase>
+  <phrase data="_MOD_AB_SUB5">Enlace de banners</phrase>
+  <phrase data="_MOD_AB_SUB6">Banner ALT</phrase>
+  <phrase data="_MOD_AB_SUB7">Código HTML para banners</phrase>
+  <phrase data="_MOD_AB_SUB8">Clics</phrase>
+  <phrase data="_MOD_AB_SUB9">Vistas</phrase>
+  <phrase data="_MOD_AB_SUB10">Fecha de inicio</phrase>
+  <phrase data="_MOD_AB_SUB11">Fecha final</phrase>
+  <phrase data="_MOD_AB_SUB12">Medios publicitarios</phrase>
+</language>

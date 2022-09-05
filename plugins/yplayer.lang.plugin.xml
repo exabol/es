@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_PLG_YPL_TITLE">Administrar el complemento del Reproductor de Youtube CMS</phrase>
+  <phrase data="_PLG_YPL_TITLE1">Agregar Reproductor</phrase>
+  <phrase data="_PLG_YPL_TITLE2">Editar Reproductor</phrase>
+  <phrase data="_PLG_YPL_SUB1">Aquí puedes configurar tu plugin de youtube player.</phrase>
+  <phrase data="_PLG_YPL_SUB2">Agregar nuevo Reproductor</phrase>
+  <phrase data="_PLG_YPL_SUB3">Lista de reproducción</phrase>
+  <phrase data="_PLG_YPL_SUB4">Canal</phrase>
+  <phrase data="_PLG_YPL_SUB5">Usuario</phrase>
+  <phrase data="_PLG_YPL_SUB6">Vídeos</phrase>
+  <phrase data="_PLG_YPL_SUB6_I">Varios identificadores separados por coma</phrase>
+  <phrase data="_PLG_YPL_SUB7">Paginación</phrase>
+  <phrase data="_PLG_YPL_SUB8">Resultados máximos</phrase>
+  <phrase data="_PLG_YPL_SUB9">Reproducir siguiente</phrase>
+  <phrase data="_PLG_YPL_SUB10">Mostrar lista de reproducción</phrase>
+  <phrase data="_PLG_YPL_SUB11">Diseño de lista de reproducción</phrase>
+  <phrase data="_PLG_YPL_SUB12">Mostrar Chanel en lista de capas</phrase>
+  <phrase data="_PLG_YPL_SUB13">Mostrar Chanel en el título</phrase>
+  <phrase data="_PLG_YPL_SUB16">Reproducción automática</phrase>
+  <phrase data="_PLG_YPL_SUB17">Compartir iconos</phrase>
+  <phrase data="_PLG_YPL_SUB18">Forzar HD</phrase>
+  <phrase data="_PLG_YPL_SUB19">Colores del Reproductor</phrase>
+  <phrase data="_PLG_YPL_SUB20">Modo Reproductor</phrase>
+  <phrase data="_PLG_YPL_SUB21">Id. de vídeo</phrase>
+  <phrase data="_PLG_YPL_SUB14">Jugando ahora</phrase>
+  <phrase data="_PLG_YPL_SUB15">Cargar más</phrase>
+  <phrase data="_PLG_YPL_NEW">Nuevo Reproductor</phrase>
+  <phrase data="_PLG_YPL_NOPLAY">Todavía no tienes ningún plugins de jugador...</phrase>
+  <phrase data="_PLG_YPL_UPDATE_OK">El Reproductor [NAME] se actualizó correctamente.</phrase>
+  <phrase data="_PLG_YPL_ADDED_OK">El Reproductor [NAME] se agregó correctamente.</phrase>
+  <phrase data="_PLG_YPL_DEL_OK">El Reproductor [NAME] se eliminó correctamente.</phrase>
+</language>

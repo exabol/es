@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_MOD_TML_ADD">Agregar línea de tiempo</phrase>
+  <phrase data="_MOD_TML_ADDED_OK">La línea de tiempo [NAME] se agregó correctamente.</phrase>
+  <phrase data="_MOD_TML_DEL_OK">La línea de tiempo [NAME] se eliminó correctamente.</phrase>
+  <phrase data="_MOD_TML_DELI_OK">El elemento [NAME] se eliminó correctamente.</phrase>
+  <phrase data="_MOD_TML_IHEIGHT">Altura del marco</phrase>
+  <phrase data="_MOD_TML_ITMADDED_OK">El elemento [NAME] se agregó correctamente.</phrase>
+  <phrase data="_MOD_TML_ITMUPDATE_OK">El elemento [NAME] se actualizó correctamente.</phrase>
+  <phrase data="_MOD_TML_IURL">Dirección URL de Iframe</phrase>
+  <phrase data="_MOD_TML_LMODE">Tipo de diseño</phrase>
+  <phrase data="_MOD_TML_LSELTIME">Seleccionar escala de tiempo</phrase>
+  <phrase data="_MOD_TML_NEW">Nueva escala de tiempo</phrase>
+  <phrase data="_MOD_TML_NOITM">Todavía no tienes artículos...</phrase>
+  <phrase data="_MOD_TML_NOTML">Todavía no tienes cronología...</phrase>
+  <phrase data="_MOD_TML_RMORE">Leer más URL</phrase>
+  <phrase data="_MOD_TML_SUB">Editar línea de tiempo</phrase>
+  <phrase data="_MOD_TML_SUB10">Elementos de escala de tiempo</phrase>
+  <phrase data="_MOD_TML_SUB11">Nuevo artículo</phrase>
+  <phrase data="_MOD_TML_SUB12">Editar elemento</phrase>
+  <phrase data="_MOD_TML_SUB13">Actualizar elemento</phrase>
+  <phrase data="_MOD_TML_SUB14">Tipo de elemento</phrase>
+  <phrase data="_MOD_TML_SUB15">Cargar al menos una imagen</phrase>
+  <phrase data="_MOD_TML_SUB16">Agregar imágenes</phrase>
+  <phrase data="_MOD_TML_SUB17">Agregar elemento</phrase>
+  <phrase data="_MOD_TML_SUB18">Leer más</phrase>
+  <phrase data="_MOD_TML_SUB19">Cargar más</phrase>
+  <phrase data="_MOD_TML_SUB20">Página de Facebook</phrase>
+  <phrase data="_MOD_TML_SUB2">Actualizar escala de tiempo</phrase>
+  <phrase data="_MOD_TML_SUB3">Total de artículos</phrase>
+  <phrase data="_MOD_TML_SUB4">Elementos mostrados</phrase>
+  <phrase data="_MOD_TML_SUB5">Mostrar más</phrase>
+  <phrase data="_MOD_TML_SUB6">Id. de aplicación de Facebook</phrase>
+  <phrase data="_MOD_TML_SUB7">Token de acceso de Facebook</phrase>
+  <phrase data="_MOD_TML_SUB8">URL de fuente RSS</phrase>
+  <phrase data="_MOD_TML_SUB9">Tipo de línea de tiempo</phrase>
+  <phrase data="_MOD_TML_TITLE">Administrar escala de tiempo CMS</phrase>
+  <phrase data="_MOD_TML_TYPE_B">Tipo de blog</phrase>
+  <phrase data="_MOD_TML_TYPE_G">Tipo de galería</phrase>
+  <phrase data="_MOD_TML_TYPE_I">Tipo Iframe</phrase>
+  <phrase data="_MOD_TML_UPDATE_OK">La línea de tiempo [NAME] se actualizó correctamente.</phrase>
+</language>

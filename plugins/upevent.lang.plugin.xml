@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_PLG_UE_TITLE1">Administrar eventos próximos</phrase>
+  <phrase data="_PLG_UE_SELECT">Seleccionar eventos</phrase>
+  <phrase data="_PLG_UE_NOEVENT">— Cree al menos un evento —</phrase>
+  <phrase data="_PLG_UE_ERR">Seleccione al menos un evento</phrase>
+  <phrase data="_PLG_UE_UPDATED">Se actualizó correctamente la configuración del evento siguiente.</phrase>
+</language>

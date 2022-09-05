@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_PLG_CRL_TITLE">Administrar complemento del Reproductor de carrusel CMS</phrase>
+  <phrase data="_PLG_CRL_TITLE1">Agregar Reproductor</phrase>
+  <phrase data="_PLG_CRL_TITLE2">Editar Reproductor</phrase>
+  <phrase data="_PLG_CRL_SUB1">Aquí puedes configurar tu plugin de jugador carrusel.</phrase>
+  <phrase data="_PLG_CRL_SUB2">Agregar nuevo Reproductor</phrase>
+  <phrase data="_PLG_CRL_SUB7">Reproducción automática</phrase>
+  <phrase data="_PLG_CRL_SUB8">Margen de artículo</phrase>
+  <phrase data="_PLG_CRL_SUB9">Centrado</phrase>
+  <phrase data="_PLG_CRL_SUB10">Pausa en Hover</phrase>
+  <phrase data="_PLG_CRL_SUB11">Mostrar puntos</phrase>
+  <phrase data="_PLG_CRL_SUB12">Mostrar filas</phrase>
+  <phrase data="_PLG_CRL_SUB13">Bucle infinito</phrase>
+  <phrase data="_PLG_CRL_SUB14">Elementos de respuesta</phrase>
+  <phrase data="_PLG_CRL_NEW">Nuevo Reproductor</phrase>
+  <phrase data="_PLG_CRL_NOPLAY">Todavía no tienes ningún plugins de jugador...</phrase>
+  <phrase data="_PLG_CRL_UPDATE_OK">El Reproductor [NAME] se actualizó correctamente.</phrase>
+  <phrase data="_PLG_CRL_ADDED_OK">El Reproductor [NAME] se agregó correctamente.</phrase>
+  <phrase data="_PLG_CRL_DEL_OK">El Reproductor [NAME] se eliminó correctamente.</phrase>
+</language>

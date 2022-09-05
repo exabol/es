@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_PLG_TW_TITLE">Administrar el complemento de Twitts más reciente de CMS</phrase>
+  <phrase data="_PLG_TW_KEY">Clave del consumidor</phrase>
+  <phrase data="_PLG_TW_SECRET">Secreto del consumidor</phrase>
+  <phrase data="_PLG_TW_TOKEN">Token de acceso</phrase>
+  <phrase data="_PLG_TW_TSECRET">Secreto de token de acceso</phrase>
+  <phrase data="_PLG_TW_USER">Nombre de usuario</phrase>
+  <phrase data="_PLG_TW_SHOW_IMG">Mostrar avatar</phrase>
+  <phrase data="_PLG_TW_COUNT">Elementos para mostrar</phrase>
+  <phrase data="_PLG_TW_TRANS">Velocidad de transición</phrase>
+  <phrase data="_PLG_TW_TRANS_T">Tiempo de espera de transición</phrase>
+  <phrase data="_PLG_TW_UPDATED">La configuración de Twitter se actualizó correctamente.</phrase>
+</language>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_PLG_NSL_TITLE">Administrar suscriptores de boletín</phrase>
+  <phrase data="_PLG_NSL_INFO">Tiene un total de suscriptores del boletín [TOTAL].</phrase>
+  <phrase data="_PLG_NSL_SUB">Suscripción</phrase>
+  <phrase data="_PLG_NSL_SUB1">Cancelar suscripción</phrase>
+  <phrase data="_PLG_NSL_SUBOK">Se ha suscrito correctamente.</phrase>
+  <phrase data="_PLG_NSL_UNSUBOK">Se ha cancelado la suscripción correctamente.</phrase>
+</language>

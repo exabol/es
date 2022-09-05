@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_MOD_FAQ_NEW">Nueva pregunta</phrase>
+  <phrase data="_MOD_FAQ_DEL_OK">La pregunta [NAME] se eliminó correctamente.</phrase>
+  <phrase data="_MOD_FAQ_QUESTION">Pregunta</phrase>
+  <phrase data="_MOD_FAQ_NOFAQS">Todavía no tienes ninguna pregunta. Por favor, agregue.</phrase>
+  <phrase data="_MOD_FAQ_TITLE">F.A.Q.Administrador</phrase>
+  <phrase data="_MOD_FAQ_TITLE1">Edición de preguntas</phrase>
+  <phrase data="_MOD_FAQ_TITLE2">Agregar pregunta</phrase>
+  <phrase data="_MOD_FAQ_SUB">Preguntas frecuentes</phrase>
+  <phrase data="_MOD_FAQ_SUB1">Nueva categoría</phrase>
+  <phrase data="_MOD_FAQ_SUB2">Actualizar categoría</phrase>
+  <phrase data="_MOD_FAQ_SUB3">Categorías de preguntas frecuentes</phrase>
+  <phrase data="_MOD_FAQ_INFO">Preguntas más frecuentes</phrase>
+  <phrase data="_MOD_FAQ_UPDATE">Actualizar pregunta</phrase>
+  <phrase data="_MOD_FAQ_UPDATED">La pregunta [NAME] se actualizó correctamente.</phrase>
+  <phrase data="_MOD_FAQ_ADDED">La pregunta [NAME] se agregó correctamente.</phrase>
+  <phrase data="_MOD_FAQ_CAT_UPDATE_OK">La categoría [NAME] se actualizó correctamente.</phrase>
+  <phrase data="_MOD_FAQ_CAT_ADDED_OK">La categoría [NAME] se agregó correctamente.</phrase>
+  <phrase data="_MOD_FAQ_CAT_DEL_OK">La categoría [NAME] se eliminó correctamente.</phrase>
+  <phrase data="_MOD_FAQ_NOFAQF">Lo siento, no tenemos ninguna pregunta todavía...</phrase>
+</language>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_PLG_DP_TITLE">Administrar complemento de donación de CMS</phrase>
+  <phrase data="_PLG_DP_TITLE1">Configuración del donante</phrase>
+  <phrase data="_PLG_DP_SUB">Nueva campaña de donación</phrase>
+  <phrase data="_PLG_DP_SUB1">Nombre de la campaña</phrase>
+  <phrase data="_PLG_DP_SUB2">Opciones de pago</phrase>
+  <phrase data="_PLG_DP_SUB3">Página Redirección correcta</phrase>
+  <phrase data="_PLG_DP_SUB4">Actualizar campaña de donación</phrase>
+  <phrase data="_PLG_DP_INFO">Aquí puedes administrar tu complemento de donación.</phrase>
+  <phrase data="_PLG_DP_NEW">Nueva donación</phrase>
+  <phrase data="_PLG_DP_TARGET">Importe objetivo</phrase>
+  <phrase data="_PLG_DP_DONATE">Donar</phrase>
+  <phrase data="_PLG_DP_NODON">Todavía no tienes plugins de donación...</phrase>
+  <phrase data="_PLG_DP_UPDATE_OK">La campaña [NAME] se actualizó correctamente.</phrase>
+  <phrase data="_PLG_DP_ADDED_OK">La campaña [NAME] se agregó correctamente.</phrase>
+</language>

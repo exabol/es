@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_PLG_PL_ACTIVE">Activar sondeo</phrase>
+  <phrase data="_PLG_PL_ADD">Agregar sondeo</phrase>
+  <phrase data="_PLG_PL_ADD_Q">Agregar opción de sondeo</phrase>
+  <phrase data="_PLG_PL_ADD1">Agregar nueva encuesta</phrase>
+  <phrase data="_PLG_PL_ADDED">La pregunta de sondeo [NAME] se agregó correctamente.</phrase>
+  <phrase data="_PLG_PL_DEL_OK">Sondeo [NAME] eliminado correctamente.</phrase>
+  <phrase data="_PLG_PL_SUB1">Aquí puede actualizar su pregunta de encuesta.</phrase>
+  <phrase data="_PLG_PL_SUB2">Aquí puede agregar una nueva encuesta.</phrase>
+  <phrase data="_PLG_PL_SUB3">Aquí puede configurar su complemento de sondeo.</phrase>
+  <phrase data="_PLG_PL_SUB4">Nueva encuesta</phrase>
+  <phrase data="_PLG_PL_NOPOLL">Todavía no tienes encuestas. Por favor, agregue.</phrase>
+  <phrase data="_PLG_PL_NOW">Votar ahora</phrase>
+  <phrase data="_PLG_PL_OPTIONS">Opciones de sondeo</phrase>
+  <phrase data="_PLG_PL_POLL">Encuesta</phrase>
+  <phrase data="_PLG_PL_QUESTION">Pregunta electoral</phrase>
+  <phrase data="_PLG_PL_RESULT">Ver resultado</phrase>
+  <phrase data="_PLG_PL_THANKS">Gracias por votar</phrase>
+  <phrase data="_PLG_PL_TITLE1">Editar pregunta de sondeo</phrase>
+  <phrase data="_PLG_PL_TITLE2">Agregar nueva encuesta</phrase>
+  <phrase data="_PLG_PL_TITLE3">Administrar complemento de sondeo de CMS</phrase>
+  <phrase data="_PLG_PL_TOTAL">Total de votos:</phrase>
+  <phrase data="_PLG_PL_UPDATE">Actualizar sondeo</phrase>
+  <phrase data="_PLG_PL_UPDATED">Pregunta de sondeo [NAME] actualizada correctamente.</phrase>
+  <phrase data="_PLG_PL_VIEW">Ver</phrase>
+  <phrase data="_PLG_PL_VOTE">Voto</phrase>
+  <phrase data="_PLG_PL_VOTES">votos</phrase>
+</language>

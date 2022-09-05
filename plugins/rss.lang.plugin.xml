@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <phrase data="_PLG_RSS_TITLE">Administrar complemento de analizador RSS de CMS</phrase>
+  <phrase data="_PLG_RSS_TITLE1">Agregar Rss</phrase>
+  <phrase data="_PLG_RSS_TITLE2">Editar Rss</phrase>
+  <phrase data="_PLG_RSS_SUB1">Aquí puede configurar su plugin rss.</phrase>
+  <phrase data="_PLG_RSS_SUB2">Agregar nueva fuente Rss</phrase>
+  <phrase data="_PLG_RSS_NEW">Rss nuevo</phrase>
+  <phrase data="_PLG_RSS_NORSS">Todavía no tienes plugins de rss...</phrase>
+  <phrase data="_PLG_RSS_URL">Url a analizar</phrase>
+  <phrase data="_PLG_RSS_SHOW_DESC">Mostrar descripción</phrase>
+  <phrase data="_PLG_RSS_BODYTRIM">Lente de descripción del recorte</phrase>
+  <phrase data="_PLG_RSS_POST_DATE">Publicado el</phrase>
+  <phrase data="_PLG_RSS_SHOW_DATE">Mostrar fecha</phrase>
+  <phrase data="_PLG_RSS_ITEMS">Total de artículos</phrase>
+  <phrase data="_PLG_RSS_UPDATE_OK">Rss [NAME] se actualizó correctamente.</phrase>
+  <phrase data="_PLG_RSS_ADDED_OK">Rss [NAME] se agregó correctamente.</phrase>
+  <phrase data="_PLG_RSS_DEL_OK">Rss [NAME] se eliminó correctamente.</phrase>
+  <phrase data="_PLG_RSS_HELP">Ayuda de Rss</phrase>
+</language>
